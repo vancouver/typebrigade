@@ -5,3 +5,4 @@
 - Register at [typebrigade.com](http://typebrigade.com)
 - Tweets from [@typebrigade](http://twitter.com/typebrigade)
 - Open source at [@typebrigade](http://github.com/typebrigade)
+- Rad our [Code of Conduct](http://typebrigade.com/code-of-conduct)
